@@ -2,5 +2,7 @@
 name = "oxygen"
 version = "0.1.0"
 authors = ["Josh Leverette <coder543@gmail.com>"]
+description = "Rust frontend for cloudscoop, maybe someday"
+license = "GPL-3.0"
 
 [dependencies]
